@@ -1,0 +1,11 @@
+body {
+    background-color:beige;
+    font-family: sans-serif;
+  }
+  h1,h2{
+    color:rgb(7, 110, 110);
+  }
+  h1{
+    text-align: center;
+  }
+  

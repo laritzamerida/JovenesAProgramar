@@ -1,0 +1,33 @@
+body {
+background-color:#d3d3d3;
+text-align: center;
+font-family: sans-serif;
+
+}
+
+h2{
+    background-color:#808080;
+    color: white;
+    text-align: left;
+    margin:auto;
+    width: 90%;
+ }
+
+ em {
+    color: red;
+ }
+
+ strong {
+    background-color: white;
+ }
+
+ img{
+    float: left;
+    margin-left:  15px;
+    margin-right: 8%;
+ }
+
+ p{
+    text-align: justify;
+    text-indent: 2rem;
+ }

@@ -1,0 +1,27 @@
+body {
+    background-image: url(Fondo2.jpg);
+    background-size:cover;
+    font-family:'Times New Roman', Times, serif;
+  }
+  .negro, .list{
+color: black;
+text-decoration: none;
+}
+
+.eti{
+  background-color: white;
+  text-align: center;
+}
+ 
+ h1, p#sumary, .list{
+    text-align: center;
+  }
+
+  img{
+    width: 200px;
+    border-radius:90px;
+    border-style:double;
+  }
+input#submit{
+background-color: gray;
+}
